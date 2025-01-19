@@ -3,16 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\reports\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +95,12 @@
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\addresses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\addresses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\salesorder\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -79,14 +115,6 @@
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -97,22 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\product\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\account\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -243,10 +255,6 @@
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\deleteconfirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\models\\services\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\models\\services\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -257,10 +265,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\models\\dbmodels\\dtodbmodels\\productcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\models\\dbmodels\\dtodbmodels\\productcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|solutionrelative:onlineshops\\views\\productcategory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B44F29AA-8A5C-4D88-A0D1-98DFE07BEFF7}|OnlineShops\\OnlineShops.csproj|c:\\users\\mari\\source\\repos\\onlineshops\\onlineshops\\models\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -318,7 +322,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 364,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -330,137 +334,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Delete.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Delete.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T23:55:52.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T23:55:25.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "OnlineShops\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAowMsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:35:28.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddressesController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AddressesController.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\AddressesController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AddressesController.cs",
-              "RelativeToolTip": "OnlineShops\\Controllers\\AddressesController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:35:43.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Program.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Program.cs",
-              "RelativeToolTip": "OnlineShops\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAmwE8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T10:46:06.332Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Index.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T16:30:56.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Create.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Create.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Create.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T16:30:30.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Edit.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T16:33:15.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Edit.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Edit.cshtml",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAGMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T23:55:44.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Details.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Details.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Details.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Details.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T23:56:13.765Z",
+              "WhenOpened": "2025-01-18T15:05:03.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Details.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Details.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T16:48:05.425Z",
+              "WhenOpened": "2025-01-17T22:03:30.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Create.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Create.cshtml",
@@ -473,696 +386,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Delete.cshtml",
               "RelativeToolTip": "OnlineShops\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-17T22:03:41.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Index.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T16:30:56.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Details.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Details.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T16:32:25.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Delete.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Delete.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T16:31:13.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T22:03:30.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T00:00:18.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductCategoryController.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\ProductCategoryController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductCategoryController.cs",
-              "RelativeToolTip": "OnlineShops\\Controllers\\ProductCategoryController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAA/wH4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:40:42.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Index.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T12:15:23.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\List.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\List.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\List.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T11:41:48.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Create.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Create.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T20:03:36.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SalesOrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\SalesOrderController.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\SalesOrderController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\SalesOrderController.cs",
-              "RelativeToolTip": "OnlineShops\\Controllers\\SalesOrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:36:23.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T21:36:06.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "OnlineShops\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAASwHQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:55:52.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T22:03:18.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T22:03:57.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T12:16:53.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 2,
               "Title": "DeleteConfirmed.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\DeleteConfirmed.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\DeleteConfirmed.cshtml",
               "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\DeleteConfirmed.cshtml",
               "RelativeToolTip": "OnlineShops\\Views\\Product\\DeleteConfirmed.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-18T22:07:54.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "RegisterUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Account\\RegisterUser.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\Account\\RegisterUser.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Account\\RegisterUser.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\Account\\RegisterUser.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T14:35:01.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\UserRegistration.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\UserRegistration.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\UserRegistration.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\UserRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:38:46.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "OnlineShops\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:41:27.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\Address.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\Address.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\Address.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\Address.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T07:33:32.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AdventureWorksLT2019Context.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:29:07.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UsersService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\UsersService.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\UsersService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\UsersService.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Services\\UsersService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswCQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:40:56.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "20250119144450_UsersForRoles.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
-              "RelativeToolTip": "OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T14:44:50.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AppUser.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AppUser.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T14:17:35.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ProductModelProductDescription.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T14:35:41.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\LoginUser.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\LoginUser.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\LoginUser.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\LoginUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T14:17:11.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "20250119084014_Users.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119084014_Users.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Migrations\\20250119084014_Users.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119084014_Users.cs",
-              "RelativeToolTip": "OnlineShops\\Migrations\\20250119084014_Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:40:15.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Seed.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Seed.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Seed.cs",
-              "RelativeToolTip": "OnlineShops\\Seed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T06:55:14.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "SalesOrderHeader.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T08:03:24.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OnlineShops\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:30:16.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "OnlineShops\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "OnlineShops\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-19T00:35:18.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T00:00:53.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Create.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Create.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T00:00:31.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Index.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-19T00:00:10.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "SalesOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\SalesOrderService.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\SalesOrderService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\SalesOrderService.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Services\\SalesOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:48:14.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\CustomerService.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:48:49.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "SalesOrderHeaderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:43:30.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "SalesOrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:43:06.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:42:31.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ISalesOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ISalesOrderService.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\IService\\ISalesOrderService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ISalesOrderService.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\IService\\ISalesOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:45:54.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "ProductCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T22:00:54.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:50:28.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\IService\\ICustomerService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ICustomerService.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\IService\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:39:31.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "ISalesOrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:40:19.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "ISalesOrderHeaderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:40:37.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:39:49.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "IProductCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T22:00:13.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "DeleteConfirmed.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T04:21:01.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Details.cshtml",
-              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Details.cshtml",
-              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Details.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Details.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T15:05:03.037Z",
+              "WhenOpened": "2025-01-19T16:32:25.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "ProductCategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\ProductCategoryService.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\ProductCategoryService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\ProductCategoryService.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\Services\\ProductCategoryService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:59:27.611Z",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T23:55:25.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "IProductCategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\IProductCategoryService.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\IService\\IProductCategoryService.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\IProductCategoryService.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\IService\\IProductCategoryService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:58:39.035Z",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Create.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T20:03:36.118Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "ProductCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
-              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
-              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T18:36:31.944Z",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Reports\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Reports\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Reports\\Index.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Reports\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T19:23:36.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T16:33:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Index.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAADUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:15:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Edit.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Edit.cshtml",
@@ -1175,7 +503,647 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:16:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwGQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T22:03:18.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T22:03:57.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAGMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T23:55:44.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Create.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T16:30:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Program.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Program.cs",
+              "RelativeToolTip": "OnlineShops\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwE8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:46:06.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "OnlineShops\\Controllers\\AddressesController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:35:43.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "OnlineShops\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:35:28.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T23:55:52.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T23:56:13.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Details.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T16:48:05.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Addresses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Addresses\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Addresses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T16:31:13.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:00:18.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "OnlineShops\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAA/wH4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:40:42.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\List.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\List.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\List.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:41:48.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SalesOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\SalesOrderController.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\SalesOrderController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\SalesOrderController.cs",
+              "RelativeToolTip": "OnlineShops\\Controllers\\SalesOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:36:23.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T21:36:06.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShops\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAASwHQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:55:52.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Account\\RegisterUser.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\Account\\RegisterUser.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Account\\RegisterUser.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\Account\\RegisterUser.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T14:35:01.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\UserRegistration.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\UserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:38:46.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OnlineShops\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:41:27.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\Address.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\Address.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\Address.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\Address.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T07:33:32.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdventureWorksLT2019Context.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\AdventureWorksLT2019Context.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:29:07.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\UsersService.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Services\\UsersService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:40:56.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250119144450_UsersForRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
+              "RelativeToolTip": "OnlineShops\\Migrations\\20250119144450_UsersForRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:44:50.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AppUser.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\AppUser.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:17:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProductModelProductDescription.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\ProductModelProductDescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:35:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\LoginUser.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\LoginUser.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T14:17:11.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250119084014_Users.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119084014_Users.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Migrations\\20250119084014_Users.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Migrations\\20250119084014_Users.cs",
+              "RelativeToolTip": "OnlineShops\\Migrations\\20250119084014_Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:40:15.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Seed.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Seed.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Seed.cs",
+              "RelativeToolTip": "OnlineShops\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:55:14.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SalesOrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\SalesOrderHeader.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T08:03:24.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineShops\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:30:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "OnlineShops\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "OnlineShops\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-19T00:35:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:00:53.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Create.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:00:31.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\SalesOrder\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\SalesOrder\\Index.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\SalesOrder\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T00:00:10.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SalesOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\SalesOrderService.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\SalesOrderService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\SalesOrderService.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Services\\SalesOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:48:14.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\CustomerService.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:48:49.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SalesOrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\SalesOrderHeaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:43:30.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SalesOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\SalesOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:43:06.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:42:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ISalesOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ISalesOrderService.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\IService\\ISalesOrderService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ISalesOrderService.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\IService\\ISalesOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:45:54.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\ProductCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:00:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:50:28.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\IService\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\ICustomerService.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\IService\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:39:31.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ISalesOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\ISalesOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:40:19.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ISalesOrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\ISalesOrderHeaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:40:37.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:39:49.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IProductCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\IProductCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T22:00:13.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DeleteConfirmed.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
+              "RelativeDocumentMoniker": "OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
+              "RelativeToolTip": "OnlineShops\\Views\\ProductCategory\\DeleteConfirmed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T04:21:01.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\ProductCategoryService.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\ProductCategoryService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\ProductCategoryService.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\Services\\ProductCategoryService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:59:27.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IProductCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\IProductCategoryService.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\IService\\IProductCategoryService.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\IProductCategoryService.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\IService\\IProductCategoryService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:58:39.035Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 65,
+              "Title": "ProductCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
+              "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
+              "RelativeToolTip": "OnlineShops\\Models\\DbModels\\DTODbModels\\ProductCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:36:31.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IRepositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "OnlineShops\\Models\\IRepositories\\IProductRepository.cs",
@@ -1183,12 +1151,11 @@
               "RelativeToolTip": "OnlineShops\\Models\\IRepositories\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:50:17.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T21:50:17.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\IService\\IProductService.cs",
               "RelativeDocumentMoniker": "OnlineShops\\Models\\IService\\IProductService.cs",
@@ -1196,12 +1163,11 @@
               "RelativeToolTip": "OnlineShops\\Models\\IService\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:53:01.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T21:53:01.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Product\\Details.cshtml",
@@ -1209,12 +1175,11 @@
               "RelativeToolTip": "OnlineShops\\Views\\Product\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T22:03:50.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T22:03:50.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Shared\\Delete.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Shared\\Delete.cshtml",
@@ -1222,12 +1187,11 @@
               "RelativeToolTip": "OnlineShops\\Views\\Shared\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T22:08:16.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T22:08:16.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Shared\\Edit.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Shared\\Edit.cshtml",
@@ -1235,12 +1199,11 @@
               "RelativeToolTip": "OnlineShops\\Views\\Shared\\Edit.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowBsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T22:08:38.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T22:08:38.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "OnlineShops\\Models\\Services\\ProductService.cs",
@@ -1248,12 +1211,11 @@
               "RelativeToolTip": "OnlineShops\\Models\\Services\\ProductService.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA/wH8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T21:53:50.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T21:53:50.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\appsettings.json",
               "RelativeDocumentMoniker": "OnlineShops\\appsettings.json",
@@ -1261,12 +1223,11 @@
               "RelativeToolTip": "OnlineShops\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-17T12:11:18.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T12:11:18.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\ProductCategory.cs",
               "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\ProductCategory.cs",
@@ -1274,12 +1235,11 @@
               "RelativeToolTip": "OnlineShops\\Models\\DbModels\\ProductCategory.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAqwBEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:51:28.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T11:51:28.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Shared\\Error.cshtml",
@@ -1287,12 +1247,11 @@
               "RelativeToolTip": "OnlineShops\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T12:08:39.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T12:08:39.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "CustomerAddress.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\CustomerAddress.cs",
               "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\CustomerAddress.cs",
@@ -1300,12 +1259,11 @@
               "RelativeToolTip": "OnlineShops\\Models\\DbModels\\CustomerAddress.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:51:21.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T11:51:21.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "OnlineShops\\Views\\Home\\Index.cshtml",
@@ -1313,12 +1271,11 @@
               "RelativeToolTip": "OnlineShops\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T12:15:30.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T12:15:30.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "BuildVersion.cs",
               "DocumentMoniker": "C:\\Users\\Mari\\source\\repos\\OnlineShops\\OnlineShops\\Models\\DbModels\\BuildVersion.cs",
               "RelativeDocumentMoniker": "OnlineShops\\Models\\DbModels\\BuildVersion.cs",
@@ -1326,8 +1283,7 @@
               "RelativeToolTip": "OnlineShops\\Models\\DbModels\\BuildVersion.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T11:30:23.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T11:30:23.832Z"
             }
           ]
         }

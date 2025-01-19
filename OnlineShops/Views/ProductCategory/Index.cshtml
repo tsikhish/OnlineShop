@@ -2,8 +2,8 @@
 
 <h2>Product Categories</h2>
 
-<table class="table table-striped">
-    <thead>
+<table class="table table-striped table-bordered">
+    <thead class="thead-dark">
         <tr>
             <th>Name</th>
             <th>Products Count</th>
@@ -17,13 +17,74 @@
                 <td>@category.Name</td>
                 <td>@category.Count</td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@category.ProductCategoryId" class="btn btn-primary">Edit</a>
-                    <a asp-action="Details" asp-route-id="@category.ProductCategoryId" class="btn btn-info">Details</a>
-                    <a asp-action="Delete" asp-route-id="@category.ProductCategoryId" class="btn btn-info">Delete</a>
+                    <a asp-action="Edit" asp-route-id="@category.ProductCategoryId" class="btn btn-outline-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@category.ProductCategoryId" class="btn btn-outline-info btn-sm">Details</a>
+                    <a asp-action="Delete" asp-route-id="@category.ProductCategoryId" class="btn btn-outline-danger btn-sm">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
 
-<a asp-action="Create" class="btn btn-success">Create New</a>
+<a asp-action="Create" class="btn btn-outline-success btn-sm">Create New</a>
+
+<style>
+    table {
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    .table th, .table td {
+        text-align: center;
+        vertical-align: middle;
+    }
+    .btn {
+        margin: 5px;
+        border-radius: 20px;
+        padding: 8px 15px;
+    }
+
+    .btn-outline-warning {
+        color: #ffc107;
+        border-color: #ffc107;
+    }
+
+        .btn-outline-warning:hover {
+            background-color: #ffc107;
+            color: white;
+        }
+
+    .btn-outline-info {
+        color: #17a2b8;
+        border-color: #17a2b8;
+    }
+
+        .btn-outline-info:hover {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+    .btn-outline-danger {
+        color: #dc3545;
+        border-color: #dc3545;
+    }
+
+        .btn-outline-danger:hover {
+            background-color: #dc3545;
+            color: white;
+        }
+
+    .btn-outline-success {
+        color: #28a745;
+        border-color: #28a745;
+    }
+
+        .btn-outline-success:hover {
+            background-color: #28a745;
+            color: white;
+        }
+    tbody tr:hover {
+        background-color: #f1f1f1;
+        cursor: pointer;
+    }
+</style>

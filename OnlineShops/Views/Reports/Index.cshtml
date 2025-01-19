@@ -5,86 +5,38 @@
 }
 
 <h2>Reports</h2>
+
 <form method="get" action="@Url.Action("Index", "Reports")">
-    <label for="reportName">Select a Report:</label>
-    <form method="get" action="@Url.Action("Index", "Reports")">
-        <fieldset>
+    <div class="form-group">
+        <label for="reportName">Select a Report:</label>
+        <fieldset class="border p-3">
             <legend>Select a Report:</legend>
 
-            <div>
-                <input type="radio" id="SalesByYearAndMonth" name="reportName" value="SalesByYearAndMonth"
-                @(Model.SelectedReport == "SalesByYearAndMonth" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="SalesByYearAndMonth">Sales By Year and Month</label>
-            </div>
-
-            <div>
-                <input type="radio" id="SalesByProduct" name="reportName" value="SalesByProduct"
-                @(Model.SelectedReport == "SalesByProduct" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="SalesByProduct">Sales By Product</label>
-            </div>
-
-            <div>
-                <input type="radio" id="SalesByProductCategory" name="reportName" value="SalesByProductCategory"
-                @(Model.SelectedReport == "SalesByProductCategory" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="SalesByProductCategory">Sales By Product Category</label>
-            </div>
-
-            <div>
-                <input type="radio" id="SalesByCustomerAndYear" name="reportName" value="SalesByCustomerAndYear"
-                @(Model.SelectedReport == "SalesByCustomerAndYear" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="SalesByCustomerAndYear">Sales By Customer and Year</label>
-            </div>
-
-            <div>
-                <input type="radio" id="SalesByCity" name="reportName" value="SalesByCity"
-                @(Model.SelectedReport == "SalesByCity" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="SalesByCity">Sales By City</label>
-            </div>
-
-            <div>
-                <input type="radio" id="Top10Customers" name="reportName" value="Top10Customers"
-                @(Model.SelectedReport == "Top10Customers" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="Top10Customers">Top 10 Customers</label>
-            </div>
-
-            <div>
-                <input type="radio" id="Top10CustomersByYear" name="reportName" value="Top10CustomersByYear"
-                @(Model.SelectedReport == "Top10CustomersByYear" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="Top10CustomersByYear">Top 10 Customers By Year</label>
-            </div>
-
-            <div>
-                <input type="radio" id="Top10Products" name="reportName" value="Top10Products"
-                @(Model.SelectedReport == "Top10Products" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="Top10Products">Top 10 Products</label>
-            </div>
-
-            <div>
-                <input type="radio" id="Top10ProductsByProfit" name="reportName" value="Top10ProductsByProfit"
-                @(Model.SelectedReport == "Top10ProductsByProfit" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="Top10ProductsByProfit">Top 10 Products By Profit</label>
-            </div>
-
-            <div>
-                <input type="radio" id="Top10ProductsByYear" name="reportName" value="Top10ProductsByYear"
-                @(Model.SelectedReport == "Top10ProductsByYear" ? "checked" : "") onchange="this.form.submit()" />
-                <label for="Top10ProductsByYear">Top 10 Products By Year</label>
-            </div>
+            @foreach (var report in new[] {
+            "SalesByYearAndMonth", "SalesByProduct", "SalesByProductCategory",
+            "SalesByCustomerAndYear", "SalesByCity", "Top10Customers",
+            "Top10CustomersByYear", "Top10Products", "Top10ProductsByProfit",
+            "Top10ProductsByYear" })
+            {
+                <div class="form-check">
+                    <input type="radio" id="@report" name="reportName" value="@report"
+                    @(Model.SelectedReport == report ? "checked" : "")
+                           class="form-check-input" onchange="this.form.submit()" />
+                    <label for="@report" class="form-check-label">@report.Replace("By", " By ").Replace("Top10", "Top 10")</label>
+                </div>
+            }
         </fieldset>
-    </form>
-
+    </div>
 </form>
 
 <hr />
 
-<!-- Display the selected report name -->
 <h3>Report: @Model.SelectedReport</h3>
 
-<!-- Display the report data in a table -->
 @if (Model.ReportData.Any())
 {
-    <table class="table table-bordered">
-        <thead>
+    <table class="table table-striped table-hover table-bordered">
+        <thead class="thead-dark">
             <tr>
                 @foreach (var property in Model.ReportData.First().GetType().GetProperties())
                 {
@@ -109,3 +61,58 @@ else
 {
     <p>No data available for the selected report.</p>
 }
+
+<style>
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-check {
+        margin-bottom: 10px;
+    }
+
+    .form-check-input {
+        margin-right: 10px;
+    }
+
+    .form-check-label {
+        font-size: 1.1em;
+        font-weight: normal;
+    }
+
+    table {
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    .table th, .table td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .thead-dark th {
+        background-color: #343a40;
+        color: white;
+    }
+
+    tbody tr:hover {
+        background-color: #f1f1f1;
+        cursor: pointer;
+    }
+    .btn {
+        border-radius: 20px;
+        padding: 8px 15px;
+        margin: 5px;
+    }
+
+    .btn-outline-info {
+        color: #17a2b8;
+        border-color: #17a2b8;
+    }
+
+        .btn-outline-info:hover {
+            background-color: #17a2b8;
+            color: white;
+        }
+</style>
+

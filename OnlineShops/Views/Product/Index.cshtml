@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<OnlineShops.Models.Product>
-<table class="table">
-    <thead>
+<table class="table table-striped table-bordered table-hover">
+    <thead class="thead-dark">
         <tr>
             <th>Name</th>
             <th>Price</th>
             <th>Size</th>
             <th>Category</th>
             <th>Image</th>
-            <th>Product Number</th> 
+            <th>Product Number</th>
             <th>Actions</th>
         </tr>
     </thead>
@@ -19,18 +19,87 @@
                 <td>@product.ListPrice.ToString("C")</td>
                 <td>@product.Size</td>
                 <td>@product.ProductCategory?.Name</td>
-                @* <td>
-                    <img src="data:image/jpeg;base64,@Convert.ToBase64String(product.ThumbNailPhoto)"
-                         alt="Product Image" style="max-width: 50px; max-height: 50px;" />
-                </td> *@
-                <td>@product.ProductNumber</td> 
                 <td>
-                    <a asp-action="Details" asp-route-id="@product.ProductId" class="btn btn-info">Details</a>
-                    <a asp-action="Edit" asp-route-id="@product.ProductId" class="btn btn-warning">Edit</a>
-                    <a asp-action="Delete" asp-route-id="@product.ProductId" class="btn btn-danger">Delete</a>
-                    <a asp-action="Create" asp-route-id="@product.ProductId" class="btn btn-danger">Create</a>
+                    @if (product.ThumbNailPhoto != null)
+                    {
+                        <img src="data:image/jpeg;base64,@Convert.ToBase64String(product.ThumbNailPhoto)"
+                             alt="Product Image" class="img-thumbnail" style="max-width: 80px; max-height: 80px;" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+                <td>@product.ProductNumber</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@product.ProductId" class="btn btn-outline-primary btn-sm">Details</a>
+                    <a asp-action="Edit" asp-route-id="@product.ProductId" class="btn btn-outline-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@product.ProductId" class="btn btn-outline-danger btn-sm">Delete</a>
+                    <a asp-action="Create" asp-route-id="@product.ProductId" class="btn btn-outline-success btn-sm">Create</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
+
+<style>
+    table {
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    .table th, .table td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .btn {
+        margin: 5px;
+        border-radius: 20px;
+        padding: 8px 15px;
+    }
+
+    .btn-outline-primary {
+        color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-outline-primary:hover {
+            background-color: #007bff;
+            color: white;
+        }
+
+    .btn-outline-warning {
+        color: #ffc107;
+        border-color: #ffc107;
+    }
+
+        .btn-outline-warning:hover {
+            background-color: #ffc107;
+            color: white;
+        }
+
+    .btn-outline-danger {
+        color: #dc3545;
+        border-color: #dc3545;
+    }
+
+        .btn-outline-danger:hover {
+            background-color: #dc3545;
+            color: white;
+        }
+
+    .btn-outline-success {
+        color: #28a745;
+        border-color: #28a745;
+    }
+
+        .btn-outline-success:hover {
+            background-color: #28a745;
+            color: white;
+        }
+    tbody tr:hover {
+        background-color: #f1f1f1;
+        cursor: pointer;
+    }
+</style>

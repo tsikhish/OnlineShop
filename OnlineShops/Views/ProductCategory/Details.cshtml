@@ -1,24 +1,53 @@
 ﻿@model OnlineShops.Models.ProductCategory
 
 <h2>Category Details</h2>
-<div>
-    <dl class="row">
-        <dt class="col-sm-2">Category Name</dt>
-        <dd class="col-sm-10">@Model.Name</dd>
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Category Name</dt>
+            <dd class="col-sm-9">@Model.Name</dd>
 
-        <dt class="col-sm-2">Parent Category</dt>
-        <dd class="col-sm-10">@Model.ParentProductCategory?.Name</dd>
+            <dt class="col-sm-3">Parent Category</dt>
+            <dd class="col-sm-9">@Model.ParentProductCategory?.Name ?? "None"</dd>
 
-        <dt class="col-sm-2">Products</dt>
-        <dd class="col-sm-10">
-            <ul>
-                @foreach (var product in Model.Products)
+            <dt class="col-sm-3">Products</dt>
+            <dd class="col-sm-9">
+                @if (Model.Products.Any())
                 {
-                    <li>@product.Name</li>
+                    <ul>
+                        @foreach (var product in Model.Products)
+                        {
+                            <li>@product.Name</li>
+                        }
+                    </ul>
                 }
-            </ul>
-        </dd>
-    </dl>
+                else
+                {
+                    <p>No products available in this category.</p>
+                }
+            </dd>
+        </dl>
+    </div>
 </div>
 
-<a asp-action="Index" class="btn btn-primary">Back to List</a>
+<a asp-action="Index" class="btn btn-primary mt-3">Back to List</a>
+<style>
+    .card {
+        margin-top: 20px;
+    }
+
+    .card-body {
+        background-color: #f8f9fa;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .btn-primary {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+
+    .mt-3 {
+        margin-top: 15px;
+    }
+</style>
