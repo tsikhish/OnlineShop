@@ -1,0 +1,92 @@
+﻿@model OnlineShops.Models.Address
+@{
+    ViewData["Title"] = "Create Address";
+}
+
+<h2>Create Address</h2>
+
+<form asp-action="Create" method="post" id="addressForm">
+    <div id="addresses">
+        <div class="address-item">
+            <div class="form-group">
+                <label>Address Line 1</label>
+                <input class="form-control" name="Addresses[0].AddressLine1" required />
+            </div>
+            <div class="form-group">
+                <label>Address Line 2</label>
+                <input class="form-control" name="Addresses[0].AddressLine2" />
+            </div>
+            <div class="form-group">
+                <label>City</label>
+                <input class="form-control" name="Addresses[0].City" required />
+            </div>
+            <div class="form-group">
+                <label>State/Province</label>
+                <input class="form-control" name="Addresses[0].StateProvince" required />
+            </div>
+            <div class="form-group">
+                <label>Country/Region</label>
+                <input class="form-control" name="Addresses[0].CountryRegion" required />
+            </div>
+            <div class="form-group">
+                <label>Postal Code</label>
+                <input class="form-control" name="Addresses[0].PostalCode" required />
+            </div>
+            <button type="button" class="btn btn-danger" onclick="removeAddress(this)">Remove Address</button>
+        </div>
+    </div>
+
+    <button type="button" class="btn btn-primary mt-3" onclick="addAddress()">Add Address</button>
+
+    <br /><br />
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>
+
+@section Scripts {
+    <script>
+        let addressCount = 1;
+
+        // Function to dynamically add an address
+        function addAddress() {
+            const addressContainer = document.getElementById('addresses');
+            const newAddressHtml =
+                        <div class="address-item">
+                            <div class="form-group">
+                                <label>Address Line 1</label>
+                                <input class="form-control" name="Addresses[${addressCount}].AddressLine1" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Address Line 2</label>
+                                <input class="form-control" name="Addresses[${addressCount}].AddressLine2" />
+                            </div>
+                            <div class="form-group">
+                                <label>City</label>
+                                <input class="form-control" name="Addresses[${addressCount}].City" required />
+                            </div>
+                            <div class="form-group">
+                                <label>State/Province</label>
+                                <input class="form-control" name="Addresses[${addressCount}].StateProvince" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Country/Region</label>
+                                <input class="form-control" name="Addresses[${addressCount}].CountryRegion" required />
+                            </div>
+                            <div class="form-group">
+                                <label>Postal Code</label>
+                                <input class="form-control" name="Addresses[${addressCount}].PostalCode" required />
+                            </div>
+                            <button type="button" class="btn btn-danger" onclick="removeAddress(this)">Remove Address</button>
+                        </div>
+                    ;
+            addressContainer.insertAdjacentHTML('beforeend', newAddressHtml);
+            addressCount++;
+        }
+
+        // Function to remove an address
+        function removeAddress(button) {
+            button.closest('.address-item').remove();
+        }
+    </script>
+}

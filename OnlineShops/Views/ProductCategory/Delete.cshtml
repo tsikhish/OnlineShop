@@ -1,0 +1,27 @@
+﻿@model OnlineShops.Models.DbModels.DTODbModels.ProductCategoryDTO
+<h2>Delete Product Category</h2>
+
+<div class="alert alert-warning">
+    <p>Are you sure you want to delete the following product category?</p>
+</div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Category Name</th>
+            <th>Products Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Name</td>
+            <td>@Model.Count</td>
+        </tr>
+    </tbody>
+</table>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" name="id" value="@Model.ProductCategoryId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

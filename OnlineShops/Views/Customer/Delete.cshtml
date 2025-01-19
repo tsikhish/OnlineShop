@@ -1,0 +1,35 @@
+﻿@model OnlineShops.Models.Customer
+
+@{
+    ViewData["Title"] = "Delete Customer";
+}
+
+<h1>Delete Customer</h1>
+
+<div>
+    <h4>Are you sure you want to delete this customer?</h4>
+    <div>
+        <strong>Name:</strong> @Model.FirstName @Model.LastName
+    </div>
+    <div>
+        <strong>Email:</strong> @Model.EmailAddress
+    </div>
+    <div>
+        <strong>Phone:</strong> @Model.Phone
+    </div>
+    <div>
+        <strong>Addresses:</strong>
+        <ul>
+            @foreach (var address in Model.CustomerAddresses.Select(ca => ca.Address))
+            {
+                <li>@address.AddressLine1, @address.City, @address.StateProvince, @address.PostalCode</li>
+            }
+        </ul>
+    </div>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="CustomerId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

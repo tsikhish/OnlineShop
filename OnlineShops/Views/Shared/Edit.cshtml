@@ -1,0 +1,28 @@
+﻿@model dynamic
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label>Name</label>
+        <input name="Name" value="@Model.Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Price</label>
+        <input name="ListPrice" value="@Model.ListPrice" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Size</label>
+        <input name="Size" value="@Model.Size" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

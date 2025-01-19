@@ -1,0 +1,13 @@
+﻿@model OnlineShops.Models.SalesOrderHeader
+@{
+    ViewData["Title"] = "Delete Order";
+}
+
+<h1>Delete Order</h1>
+
+<p>Are you sure you want to delete the order <strong>@Model.SalesOrderNumber</strong>?</p>
+
+<form method="post" asp-action="Delete" asp-route-id="@Model.SalesOrderId">
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="/SalesOrder" class="btn btn-secondary">Cancel</a>
+</form>

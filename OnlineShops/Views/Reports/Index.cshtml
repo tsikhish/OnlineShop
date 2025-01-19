@@ -1,0 +1,111 @@
+﻿@using OnlineShops.Models.DbModels
+@model ReportsViewModel
+@{
+    ViewBag.Title = "Reports";
+}
+
+<h2>Reports</h2>
+<form method="get" action="@Url.Action("Index", "Reports")">
+    <label for="reportName">Select a Report:</label>
+    <form method="get" action="@Url.Action("Index", "Reports")">
+        <fieldset>
+            <legend>Select a Report:</legend>
+
+            <div>
+                <input type="radio" id="SalesByYearAndMonth" name="reportName" value="SalesByYearAndMonth"
+                @(Model.SelectedReport == "SalesByYearAndMonth" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="SalesByYearAndMonth">Sales By Year and Month</label>
+            </div>
+
+            <div>
+                <input type="radio" id="SalesByProduct" name="reportName" value="SalesByProduct"
+                @(Model.SelectedReport == "SalesByProduct" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="SalesByProduct">Sales By Product</label>
+            </div>
+
+            <div>
+                <input type="radio" id="SalesByProductCategory" name="reportName" value="SalesByProductCategory"
+                @(Model.SelectedReport == "SalesByProductCategory" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="SalesByProductCategory">Sales By Product Category</label>
+            </div>
+
+            <div>
+                <input type="radio" id="SalesByCustomerAndYear" name="reportName" value="SalesByCustomerAndYear"
+                @(Model.SelectedReport == "SalesByCustomerAndYear" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="SalesByCustomerAndYear">Sales By Customer and Year</label>
+            </div>
+
+            <div>
+                <input type="radio" id="SalesByCity" name="reportName" value="SalesByCity"
+                @(Model.SelectedReport == "SalesByCity" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="SalesByCity">Sales By City</label>
+            </div>
+
+            <div>
+                <input type="radio" id="Top10Customers" name="reportName" value="Top10Customers"
+                @(Model.SelectedReport == "Top10Customers" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="Top10Customers">Top 10 Customers</label>
+            </div>
+
+            <div>
+                <input type="radio" id="Top10CustomersByYear" name="reportName" value="Top10CustomersByYear"
+                @(Model.SelectedReport == "Top10CustomersByYear" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="Top10CustomersByYear">Top 10 Customers By Year</label>
+            </div>
+
+            <div>
+                <input type="radio" id="Top10Products" name="reportName" value="Top10Products"
+                @(Model.SelectedReport == "Top10Products" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="Top10Products">Top 10 Products</label>
+            </div>
+
+            <div>
+                <input type="radio" id="Top10ProductsByProfit" name="reportName" value="Top10ProductsByProfit"
+                @(Model.SelectedReport == "Top10ProductsByProfit" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="Top10ProductsByProfit">Top 10 Products By Profit</label>
+            </div>
+
+            <div>
+                <input type="radio" id="Top10ProductsByYear" name="reportName" value="Top10ProductsByYear"
+                @(Model.SelectedReport == "Top10ProductsByYear" ? "checked" : "") onchange="this.form.submit()" />
+                <label for="Top10ProductsByYear">Top 10 Products By Year</label>
+            </div>
+        </fieldset>
+    </form>
+
+</form>
+
+<hr />
+
+<!-- Display the selected report name -->
+<h3>Report: @Model.SelectedReport</h3>
+
+<!-- Display the report data in a table -->
+@if (Model.ReportData.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                @foreach (var property in Model.ReportData.First().GetType().GetProperties())
+                {
+                    <th>@property.Name</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ReportData)
+            {
+                <tr>
+                    @foreach (var property in item.GetType().GetProperties())
+                    {
+                        <td>@property.GetValue(item)</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No data available for the selected report.</p>
+}

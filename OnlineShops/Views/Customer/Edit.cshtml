@@ -1,0 +1,122 @@
+﻿@model OnlineShops.Models.Customer
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+
+<h1>Edit Customer</h1>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="CustomerId" />
+
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" required />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" required />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EmailAddress"></label>
+        <input asp-for="EmailAddress" type="email" class="form-control" required />
+        <span asp-validation-for="EmailAddress" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Phone"></label>
+        <input asp-for="Phone" class="form-control" required />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <h3>Addresses</h3>
+    <div id="addresses">
+        @if (Model.CustomerAddresses != null && Model.CustomerAddresses.Any())
+        {
+            var index = 0;
+            foreach (var customerAddress in Model.CustomerAddresses)
+            {
+                <div class="address-item">
+                    <input type="hidden" name="CustomerAddresses[@index].AddressId" value="@customerAddress.AddressId" />
+
+                    <div class="form-group">
+                        <label>Address Line 1</label>
+                        <input class="form-control" name="CustomerAddresses[@index].AddressLine1" value="@customerAddress.Address.AddressLine1" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label>Address Line 2</label>
+                        <input class="form-control" name="CustomerAddresses[@index].AddressLine2" value="@customerAddress.Address.AddressLine2" />
+                    </div>
+
+                    <div class="form-group">
+                        <label>City</label>
+                        <input class="form-control" name="CustomerAddresses[@index].City" value="@customerAddress.Address.City" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label>State/Province</label>
+                        <input class="form-control" name="CustomerAddresses[@index].StateProvince" value="@customerAddress.Address.StateProvince" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label>Country/Region</label>
+                        <input class="form-control" name="CustomerAddresses[@index].CountryRegion" value="@customerAddress.Address.CountryRegion" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label>Postal Code</label>
+                        <input class="form-control" name="CustomerAddresses[@index].PostalCode" value="@customerAddress.Address.PostalCode" required />
+                    </div>
+
+                    <button type="button" class="btn btn-danger" onclick="removeAddress(this)">Remove Address</button>
+                </div>
+                index++;
+            }
+        }
+        else
+        {
+            <p>No addresses found. Add new addresses below.</p>
+        }
+    </div>
+
+    <button type="button" class="btn btn-primary" onclick="addAddress()">Add Address</button>
+
+    <br /><br />
+
+    <button type="submit" class="btn btn-success">Save Changes</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        let addressIndex = @Model.CustomerAddresses?.Count ?? 0;
+
+                function addAddress() {
+            const addressContainer = document.getElementById('addresses');
+            const newAddressHtml = `
+                <div class="address-item">
+                    <input type="hidden" name="CustomerAddresses[${addressIndex}].AddressId" value="0" />
+                    <div class="form-group">
+                        <label>Address Line 1</label>
+                        <input class="form-control" name="CustomerAddresses[${addressIndex}].Address.AddressLine1" required />
+                    </div>
+                    <div class="form-group">
+                        <label>City</label>
+                        <input class="form-control" name="CustomerAddresses[${addressIndex}].Address.City" required />
+                    </div>
+                    <!-- Add other address fields here -->
+                    <button type="button" class="btn btn-danger" onclick="removeAddress(this)">Remove Address</button>
+                </div>`;
+            addressContainer.insertAdjacentHTML('beforeend', newAddressHtml);
+            addressIndex++;
+        }
+
+        function removeAddress(button) {
+            button.closest('.address-item').remove();
+        }
+    </script>
+}

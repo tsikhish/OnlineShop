@@ -1,0 +1,61 @@
+﻿@model OnlineShops.Models.Product
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Edit Product";
+}
+
+<h2>Edit Product</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data" method="post">
+    <input type="hidden" asp-for="ProductId" />
+
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ListPrice" class="control-label"></label>
+        <input asp-for="ListPrice" class="form-control" />
+        <span asp-validation-for="ListPrice" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Size" class="control-label"></label>
+        <input asp-for="Size" class="form-control" />
+        <span asp-validation-for="Size" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ProductCategoryId" class="control-label">Category</label>
+        <select asp-for="ProductCategoryId" asp-items="@(new SelectList(ViewBag.Categories, "ProductCategoryId", "Name"))" class="form-control">
+            <option value="">-- Select Category --</option>
+        </select>
+        <span asp-validation-for="ProductCategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ProductNumber" class="control-label"></label>
+        <input asp-for="ProductNumber" class="form-control" />
+        <span asp-validation-for="ProductNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Product Image</label>
+        <input type="file" name="imageFile" class="form-control" />
+        @if (Model.ThumbNailPhoto != null)
+        {
+            <div>
+                <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.ThumbNailPhoto)"
+                     alt="Current Product Image"
+                     style="max-width: 150px; max-height: 150px;" />
+            </div>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+
+</form>

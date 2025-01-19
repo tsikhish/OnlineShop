@@ -1,0 +1,41 @@
+﻿@model OnlineShops.Models.Customer
+<h2>Customer Details</h2>
+
+<dl class="row">
+    <dt class="col-sm-2">Name</dt>
+    <dd class="col-sm-10">@Model.FirstName @Model.LastName</dd>
+
+    <dt class="col-sm-2">Email</dt>
+    <dd class="col-sm-10">@Model.EmailAddress</dd>
+
+    <dt class="col-sm-2">Phone</dt>
+    <dd class="col-sm-10">@Model.Phone</dd>
+
+    <dt class="col-sm-2">Addresses</dt>
+    <dd class="col-sm-10">
+        @if (Model.CustomerAddresses != null && Model.CustomerAddresses.Any())
+        {
+            <ul>
+                @foreach (var customerAddress in Model.CustomerAddresses)
+                {
+                    <li>
+                        @customerAddress.Address.AddressLine1,
+                        @customerAddress.Address.City,
+                        @customerAddress.Address.StateProvince,
+                        @customerAddress.Address.PostalCode,
+                        @customerAddress.Address.CountryRegion
+                    </li>
+                }
+            </ul>
+        }
+        else
+        {
+            <span>No addresses available</span>
+        }
+    </dd>
+</dl>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.CustomerId" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<OnlineShops.Models.Product>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Size</th>
+            <th>Category</th>
+            <th>Image</th>
+            <th>Product Number</th> 
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.ListPrice.ToString("C")</td>
+                <td>@product.Size</td>
+                <td>@product.ProductCategory?.Name</td>
+                @* <td>
+                    <img src="data:image/jpeg;base64,@Convert.ToBase64String(product.ThumbNailPhoto)"
+                         alt="Product Image" style="max-width: 50px; max-height: 50px;" />
+                </td> *@
+                <td>@product.ProductNumber</td> 
+                <td>
+                    <a asp-action="Details" asp-route-id="@product.ProductId" class="btn btn-info">Details</a>
+                    <a asp-action="Edit" asp-route-id="@product.ProductId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@product.ProductId" class="btn btn-danger">Delete</a>
+                    <a asp-action="Create" asp-route-id="@product.ProductId" class="btn btn-danger">Create</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,19 @@
+﻿@model ProductCategory
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="ParentCategory">Parent Category</label>
+        <select asp-for="ParentProductCategoryId" class="form-control">
+            <option value="">-- None --</option>
+            @foreach (var category in ViewBag.ParentCategories)
+            {
+                <option value="@category.ProductCategoryId">@category.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

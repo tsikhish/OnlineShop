@@ -1,0 +1,53 @@
+﻿@using OnlineShops.Models.DbModels
+@model UserRegistration
+
+@{
+    ViewData["Title"] = "Register User";
+}
+
+<h2>Register User</h2>
+
+<div>
+    <form method="post">
+        @Html.AntiForgeryToken()  <!-- Anti-forgery token -->
+
+        <div class="form-group">
+            <label for="UserName">Username:</label>
+            <input type="text" id="UserName" name="UserName" class="form-control" value="@Model.UserName" required />
+            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            <label for="Password">Password:</label>
+            <input type="password" id="Password" name="Password" class="form-control" required />
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            <label for="Email">Email:</label>
+            <input type="email" id="Email" name="Email" class="form-control" value="@Model.Email" required />
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            <label for="Role">Role:</label>
+            <select id="Role" name="Role" class="form-control" required>
+                <option value="User">User</option>
+            </select>
+            @Html.ValidationMessageFor(model => model.Role, "", new { @class = "text-danger" })
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Register</button>
+    </form>
+
+    @if (ViewData["Message"] != null)
+    {
+        <div class="alert alert-success mt-3">
+            @ViewData["Message"]
+        </div>
+    }
+
+    @if (!ViewData["Message"]?.ToString().Contains("successfully") ?? false)
+    {
+        <div class="alert alert-danger mt-3">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        </div>
+    }
+</div>
+

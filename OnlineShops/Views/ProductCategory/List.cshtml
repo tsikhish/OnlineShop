@@ -1,0 +1,27 @@
+﻿@model IEnumerable<OnlineShops.Models.DbModels.DTODbModels.ProductCategoryDTO>
+
+<h2>List/Table View</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Products Count</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Count</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductCategoryId" class="btn btn-primary">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Create New</a>

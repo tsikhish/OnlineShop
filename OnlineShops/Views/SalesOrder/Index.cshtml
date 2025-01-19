@@ -1,0 +1,38 @@
+﻿@model IEnumerable<OnlineShops.Models.SalesOrderHeader>
+@{
+    ViewData["Title"] = "Sales Orders";
+}
+
+<h1>Sales Orders</h1>
+
+<a href="/SalesOrder/Create" class="btn btn-primary mb-3">Create New Order</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Order Number</th>
+            <th>Customer Name</th>
+            <th>Customer Email</th>
+            <th>Order Date</th>
+            <th>Total Due</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.SalesOrderNumber</td>
+                <td>@(order.Customer?.FirstName ?? "No Customer")</td>
+                <td>@(order.Customer?.EmailAddress ?? "No Email")</td>
+                <td>@order.OrderDate.ToShortDateString()</td>
+                <td>@order.TotalDue.ToString("C")</td>
+                <td>
+                    <a href="/SalesOrder/Details/@order.SalesOrderId" class="btn btn-info btn-sm">Details</a>
+                    <a href="/SalesOrder/Edit/@order.SalesOrderId" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="/SalesOrder/Delete/@order.SalesOrderId" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
